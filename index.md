@@ -1,11 +1,16 @@
 ## Welcome to Support Webpage for Photo Retouch
 
 
-Photo Retouch - Remove Logo and watermark of the pictures and videos. With this app, you can fix images and videos.
+Photo Retouch -  Edit or crop your photos or videos. With this app, you can fix images and videos. Make fun pictures/videos, remove unwanted people, remove unsightly pimples, clean up the perfect shot.
+
 
 Features:
-- Remove photo watermark:  There are three removal algorithms for Complex background, Simple background, Single color background. Select the matching background mode and smear the watermark
-- Remove video watermark: Select the watermark area in the video，press  ‘Erase’ Button.
-- Watermarking photos: You can and watermarks, emoticons, stickers to the picture.
+- Remove Items:  There are three removal algorithms for Complex background, Simple background, Single color background. Select the matching background mode and smear the item
+- Add watermark: add Emoji, Stickers, Text to Photos/Videos.
+- Crop Video, Trim Video 
+- Change Video's Cover
+- Rotate Video
+- Reverse Video
+- Change Video Rate
 
 Contact us:xihuamei_contact@163.com
